@@ -5,4 +5,5 @@ def countdown
     puts "#{x} is less than 10"
     x += 1
   end
+  return "Happy New Year!"
 end
